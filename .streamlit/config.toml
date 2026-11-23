@@ -1,0 +1,15 @@
+# Tema de ColorLab: se fuerza el tema claro para que no cambie con el
+# modo oscuro del sistema (eso era lo que dejaba letras ilegibles).
+[theme]
+base = "light"
+primaryColor = "#0F766E"
+backgroundColor = "#F4F7FB"
+secondaryBackgroundColor = "#E8EEF5"
+textColor = "#14233A"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
